@@ -21,3 +21,10 @@ playwright-log.txt
 # Editorit ja käyttöjärjestelmä
 .vscode
 .DS_Store
+output.xml
+log.html
+report.html
+browser/
+playwright-log.txt
+.venv/
+__pycache__/
